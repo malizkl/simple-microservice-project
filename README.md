@@ -21,4 +21,4 @@ curl http://localhost:9001 --header 'Token: Your generated token(Please paste yo
 
 After run this command, you should see the output (Super Secret Information)
 
-<img width='1400' alt="microservice" src="https://user-images.githubusercontent.com/63977569/188915319-1851fc80-a4f1-42b7-ba80-db0b3a52a753.png">
+<img width="1400" alt="microservice" src="https://user-images.githubusercontent.com/63977569/188916042-750d1f65-1ad4-42f8-8bab-054712db12ba.png">
