@@ -21,4 +21,4 @@ curl http://localhost:9001 --header 'Token: Your generated token(Please paste yo
 
 After run this command, you should see the output (Super Secret Information)
 
-![](../../microservice.png)
+![Alt text](/Users/mojave/Desktop/microservice.png "Optional title")
